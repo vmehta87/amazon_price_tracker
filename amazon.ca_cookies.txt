@@ -1,0 +1,22 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.amazon.ca	TRUE	/	TRUE	1693984486	session-id	130-4906743-3534146
+.amazon.ca	TRUE	/	TRUE	1693984486	ubid-acbca	135-7625993-0927636
+.amazon.ca	TRUE	/	TRUE	1695332505	lc-acbca	en_CA
+read.amazon.ca	FALSE	/	FALSE	1671648538	csm-hit	tb:s-8FDCX6QKN7NHCZCENZR9|1641408538514&t:1641408538949&adb:adblk_yes
+.amazon.ca	TRUE	/	TRUE	1673404574	x-acbca	"FAFYS36UZUpq0ACTBrjSJhPMyaa1jRQxcDMmn7QAzrdN@f7vr?UBkKQ8gCpKz5e7"
+.amazon.ca	TRUE	/	TRUE	1673404574	at-acbca	Atza|IwEBIB-Clvtp0ZXncFeCm1orkeBXR4bKMQfpGYQAfAli2IA0UxbjVmGkt3gEzyNZMIwdZpRrpuV-M8CRxPADdBTEHfrJAwX6EGpFNtyl-qnNMHKFN0klRqoSNgCcW47lycSSK9qowU-Zoy5K7zHTO176hf2fmTzd1PrGR-lFg37lEy4d9nC5nuWoQ3kjM_jHHf6GlsCbqPToSoE2SZqptlMVr6u7
+.amazon.ca	TRUE	/	TRUE	1673404574	sess-at-acbca	"KpuLrJI6zhoXE+MqFfzHjrLwp8/2lTCqm3xxKhm6xV0="
+.amazon.ca	TRUE	/	TRUE	1673404574	sst-acbca	Sst1|PQHsRXVuJicb6KEL1T-seXq2CZcvD_p43jO4MhF7TrlQwhDzR8_A_5PVPrWWvcMsNHuXjJaX_IBHTNHCahOpp5L5Yh_ROfTRXZ7S0OgU4KVpFaT4PX40ih7W30nloADvscgL7V585vtV0gNewUwo7wHXwZmB7S4AYz3pGff4JOIe_wh7fNe2vClz8xxD6bhXmhcYm9pTb2dEZoX3afQF4YVyaBki0Guv1lNAQNu5QjeiytRIeBTv2qXUeyp-HS1i83A8kEMaCjYwuIPGOwl2LRmLvAI04_GqZAP4imkS0kMz-Q0
+.amazon.ca	TRUE	/	FALSE	1693984486	session-id-time	2082787201l
+.amazon.ca	TRUE	/	FALSE	1673404642	i18n-prefs	CAD
+.amazon.ca	TRUE	/	FALSE	0	s_cc	true
+.amazon.ca	TRUE	/	FALSE	1697008482	s_nr	1662448482513-New
+.amazon.ca	TRUE	/	FALSE	1697008482	s_vnum	2094448482514%26vn%3D1
+.amazon.ca	TRUE	/	FALSE	1697008482	s_dslv	1662448482516
+.amazon.ca	TRUE	/	FALSE	0	s_sq	%5B%5BB%5D%5D
+.amazon.ca	TRUE	/	FALSE	0	s_ppv	49
+.amazon.ca	TRUE	/	TRUE	1693987306	session-token	"+KyQD4C/n6YBabZNERZhxDAkRN3+DPEfMQ3iUMGCOVj1ye4/O5cP9j5slEZMWrWxNEMeHkMaa3/51lcUXPbqLYXRVDciaCPIn3xc8WJ3Ckexj+ZmeB+/egx9z83/z34p6r50thqi+mMhIp0x60cP6BcDVmTqhYKo2aK078HyOJPhtcUJDgyPUu3FazhLDykUgf6KRAGfndtD+lutHDzvHp2W5nqZ0Y69aMN9TdSf/e/p7PzJvbBPfg=="
+www.amazon.ca	FALSE	/	FALSE	1692691792	csm-hit	tb:TJXHA8T2R9JN4JD51HK0+s-DZTVEEFXQ1D3NVVJG84P|1662451792128&t:1662451792128&adb:adblk_yes
