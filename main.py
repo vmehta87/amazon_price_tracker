@@ -66,3 +66,4 @@ price = float(dollars.getText() + cents.getText())
 if price <= strike_price:
     send_email()
     print('sent you an email!')
+    
